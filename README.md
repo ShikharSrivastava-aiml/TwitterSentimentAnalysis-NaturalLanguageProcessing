@@ -1,4 +1,4 @@
-# Twitter Sentiment Analysis Repository
+# Twitter Sentiment Analysis
 
 This repository contains a collection of Jupyter notebooks implementing various deep learning models for sentiment analysis on Twitter data. It explores a range of architectures, including BERT, CNN, LSTM, BiLSTM, and hybrid combinations such as BERT-CNN, BERT-LSTM, and BERT-BiLSTM. The primary goal is to predict sentiment categories—positive, negative, neutral, or irrelevant—associated with Twitter entities, creating a powerful tool for gauging public opinion on different topics.
 
